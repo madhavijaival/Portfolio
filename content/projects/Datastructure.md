@@ -7,7 +7,7 @@ tech:
   - JavaScript
   - HTML
   - CSS
-company: ''
+company: 'Web Engineering Course'
 showInProjects: true
 ---
 

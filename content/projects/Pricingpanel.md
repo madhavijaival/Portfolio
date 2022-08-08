@@ -10,3 +10,5 @@ tech:
 company:
 showInProjects: true
 ---
+
+Created pricing panel for the commercial websites.
