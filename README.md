@@ -1,6 +1,5 @@
 # Portfolio
 
-# Gatsby Portfolio
 #### My personal website - Built with [Gatsby.js](https://www.gatsbyjs.org/) 
  [![Netlify Status](https://api.netlify.com/api/v1/badges/c0f9e111-12d6-426d-87fa-3450d7052da6/deploy-status)](https://app.netlify.com/sites/madhavi-jaival-portfolio/deploys)
 
