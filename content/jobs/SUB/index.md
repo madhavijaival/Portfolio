@@ -2,7 +2,7 @@
 date: '2022-08-20'
 title: 'Software Developer Intern'
 company: 'SubmitIt'
-location: remote
+location: Remote | USA
 range: 'Jan 2022 - Aug 2022'
 url: 'https://submitit.io/'
 ---

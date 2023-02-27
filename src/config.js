@@ -1,16 +1,16 @@
 module.exports = {
   siteTitle: 'Madhavi Jaival',
   siteDescription:
-    'Madhavi Jaival is an incoming Software Developer, who loves learning new things.',
+    'Madhavi Jaival is a Software Developer, who loves learning new things.',
   siteKeywords:
-    ' Madhavi Jaival, software engineer, web developer, javascript, java, USA',
+    ' Madhavi Jaival, software engineer, web developer, javascript, React,  USA',
   siteUrl: 'https://github.com/madhavijaival',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Madhavi Jaival',
   location: 'California, USA',
-  email: 'madhavi.jaival113@gmail.com',
+  email: 'madhavi@myjobsemail.com ',
   github: 'https://github.com/madhavijaival',
   twitterHandle: '@',
   socialMedia: [
