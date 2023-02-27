@@ -3,7 +3,7 @@ date: '5'
 title: 'Chaos Engineering in the Cloud'
 cover: 'Chaos.JPG'
 github: 'https://github.com/madhavijaival/Chaos_in_cloud'
-external: 'https://madhavijaival-atlan-task.netlify.app/'
+external: 'https://scholarworks.csun.edu/handle/10211.3/224585'
 tech:
   - Node.js
   - AWS DynamoDB
