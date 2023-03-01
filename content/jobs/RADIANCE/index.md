@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 title: 'Full Stack Developer '
-company: 'Radiance Technologies '
+company: 'Impact '
 location: Remote | USA
 range: 'Sep 2022 – Present'
 url: ' '
