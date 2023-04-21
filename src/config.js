@@ -10,7 +10,7 @@ module.exports = {
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Madhavi Jaival',
   location: 'California, USA',
-  email: 'madhavi@myjobsemail.com ',
+  email: 'madhavi@cvemail.net ',
   github: 'https://github.com/madhavijaival',
   twitterHandle: '@',
   socialMedia: [
@@ -26,7 +26,7 @@ module.exports = {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/_m_s_j_/',
     // },
-    
+
   ],
 
   navLinks: [
