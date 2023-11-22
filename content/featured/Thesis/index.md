@@ -1,9 +1,9 @@
 ---
 date: '5'
-title: 'Chaos Engineering in the Cloud'
+title: 'Chaos Engineering in the Cloud "Published in IEEE (CSCI2022)"'
 cover: 'Chaos.JPG'
 github: 'https://github.com/madhavijaival/Chaos_in_cloud'
-external: 'https://scholarworks.csun.edu/handle/10211.3/224585'
+external: 'https://ieeexplore.ieee.org/document/10216673'
 tech:
   - Node.js
   - AWS DynamoDB
