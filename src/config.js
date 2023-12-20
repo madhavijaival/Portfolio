@@ -10,7 +10,7 @@ module.exports = {
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Madhavi Jaival',
   location: 'California, USA',
-  email: 'madhavi@cvemail.net ',
+  email: 'madhavi.jaival113@gmail.com',
   github: 'https://github.com/madhavijaival',
   twitterHandle: '@',
   socialMedia: [
