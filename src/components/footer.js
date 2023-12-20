@@ -105,10 +105,10 @@ const Footer = () => {
           href=""
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>
+          {/* <div>
             &copy; by Madhavi Jaival<br></br>
 
-          </div>
+          </div> */}
 
 
         </StyledGitHubLink>
