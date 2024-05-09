@@ -3,7 +3,7 @@ date: '2023-09-26'
 title: 'Full Stack Developer '
 company: 'HCL Tech '
 location: Remote | USA
-range: 'Sep 2022 – Present'
+range: 'Jan 2023 – Present'
 url: ' '
 ---
 
