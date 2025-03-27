@@ -1,13 +1,13 @@
 ---
 date: '2023-09-26'
 title: 'Full Stack Developer '
-company: 'HCL Tech '
+company: 'Fannie Mae'
 location: Remote | USA
 range: 'Jan 2023 – Present'
 url: ' '
 ---
 
-- Design and develop the front-end of the sales management system using React JS, HTML, CSS, and JavaScript.
+- Involved in the development using Agile development process to gather and analyze the requirements of the Application.
 - Integrate with the AWS services such as DynamoDB, Lambda, and S3 to store and manage sales data.
 - Implement user authentication and authorization using AWS Cognito.
 - Develop serverless functions using AWS Lambda to handle business logic and data processing.
