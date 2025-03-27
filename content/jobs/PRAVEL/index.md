@@ -1,10 +1,10 @@
 ---
 date: '2023-02-26'
 title: 'Full Stack Developer '
-company: 'Pravel Solutions '
+company: 'ValueLabs '
 location: Remote | India
-range: 'Jan 2019 - Mar 2020'
-url: 'https://pravelsolutions.com/'
+range: 'Jan 2019 - Feb 2020'
+url: ''
 ---
 
 - Developed the backend of the movie review website using Node.js, React Native, and PostgreSQL as the
