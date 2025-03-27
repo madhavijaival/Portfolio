@@ -1,19 +1,17 @@
 ---
 date: '2022-08-20'
 title: 'Software Developer Intern'
-company: 'SubmitIt'
+company: 'Verizon'
 location: Remote | USA
 range: 'Jan 2022 - Dec 2022'
-url: 'https://submitit.io/'
+url: ' '
 ---
 
-- I worked on HTML, CSS, and JavaScript modifications to speed up website loading and
-  surfing.
-- Developed a backend using Prisma, MySQL, and TypeScript to manage varying levels of
-  traffic on the website.
-- Worked on Postman to validate the API endpoint and keep the API up to date.
-- Developed performance and reliability tests for internal applications.
-- Deployed the applications on AWS ECS Fargate using docker.
-- Approached problems and created the solutions.
-- Proactively learned about new technologies.
-- Researched, investigated and fixed a wide range of technical issues.
+
+- Developed the backend of the movie review website using Node.js for server-side scripting and Java for specific components, with PostgreSQL as the database.
+- Crafted a seamless and visually appealing frontend utilizing React.js, with a choice of Bootstrap or Material UI for a polished design.
+- Engineered and maintained the website's pagination functionality, optimizing user experience by facilitating easy navigation through extensive movie data.
+- Implemented robust RESTful APIs to meticulously handle HTTP requests and responses for both movie and user data.
+- Collaborated with external platforms, such as IMDb and The Movie Database, to retrieve additional movie data, ensuring seamless integration into the website.
+- Actively participated in code reviews, providing insightful and constructive feedback to peers, contributing to a culture of continuous improvement and elevated code quality
+
