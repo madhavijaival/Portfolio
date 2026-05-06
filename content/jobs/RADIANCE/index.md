@@ -1,9 +1,9 @@
 ---
 date: '2023-09-26'
 title: 'Full Stack Developer '
-company: 'Fannie Mae'
+company: 'Radiance Technologies'
 location: Remote | USA
-range: 'Jan 2023 – Present'
+range: 'Jan 2023 – July 2024'
 url: ' '
 ---
 
