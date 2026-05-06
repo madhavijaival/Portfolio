@@ -1,9 +1,9 @@
 ---
 date: '2023-02-26'
 title: 'Full Stack Developer '
-company: 'ValueLabs '
-location: Remote | India
-range: 'Jan 2019 - Feb 2020'
+company: 'Sierra Consulting Inc. '
+location: Remote | USA
+range: 'July 2024 - March 2025'
 url: ''
 ---
 
