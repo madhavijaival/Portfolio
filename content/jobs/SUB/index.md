@@ -1,7 +1,7 @@
 ---
 date: '2022-08-20'
 title: 'Software Developer Intern'
-company: 'Verizon'
+company: 'SubmitIt'
 location: Remote | USA
 range: 'Jan 2022 - Dec 2022'
 url: ' '
